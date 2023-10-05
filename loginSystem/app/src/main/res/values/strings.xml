@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Components</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Senha</string>
+    <string name="confirm_password">Confirme sua senha</string>
+    <string name="create_account">Cria Conta</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="copyright">© Copyright CodeIntech 2023 </string>
+</resources>

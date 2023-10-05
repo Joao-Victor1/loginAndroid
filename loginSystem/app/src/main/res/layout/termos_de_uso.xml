@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TermosDeUso">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet in diam finibus suscipit. Suspendisse maximus vulputate erat vitae dapibus. Nullam in laoreet neque. Fusce semper nec quam mattis euismod. Sed tempor nec metus id accumsan. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst.
+
+Suspendisse quis risus quis est ultrices sagittis placerat eget magna. Sed commodo elementum mauris, vitae vehicula urna. Cras ac egestas ligula, sit amet ultricies enim. Quisque sagittis justo rutrum placerat pellentesque. Cras semper ullamcorper egestas. In tincidunt, nulla a aliquam faucibus, purus turpis vehicula purus, ac volutpat eros mauris eget est. Ut quis eros erat. Ut maximus ultrices tellus, quis congue eros iaculis vitae. In tincidunt, lectus in vestibulum maximus, augue nunc mollis ante, eu pulvinar enim nulla at magna. Vestibulum posuere, sapien vel maximus accumsan, nibh ex sagittis erat, ut consectetur turpis magna sit amet lectus. Cras vestibulum risus nec fermentum posuere. Donec tempus turpis quis odio consectetur, non tempus dui vestibulum. Morbi feugiat quam id interdum luctus. Vestibulum et dapibus turpis, eget cursus nunc.
+
+Quisque lorem enim, lacinia sed viverra sit amet, ullamcorper in felis. Suspendisse dictum sed nibh vel dapibus. Phasellus euismod, odio non dictum dictum, metus metus auctor leo, sit amet maximus est ipsum et purus. Nunc sagittis eros et lacus faucibus accumsan. Cras non commodo neque. Fusce eget euismod dui. Quisque tempus libero et nisi aliquet pharetra. In eget fringilla ligula, sed tempus tellus. Vestibulum est augue, tincidunt ac dictum ac, maximus ac est. Praesent vestibulum id arcu quis ullamcorper. Suspendisse mattis, justo scelerisque congue sagittis, erat metus tempor sapien, vel viverra odio elit et neque. Ut tortor dui, gravida eget consequat eget, semper id massa. Quisque sagittis at est non feugiat. Mauris nunc elit, sodales sed dolor vel, ullamcorper semper ipsum. Praesent vel porttitor sem. Suspendisse vulputate fringilla sem non consectetur.
+
+In vehicula turpis sit amet ultricies molestie. Proin tristique, erat sit amet iaculis tempus, turpis nulla blandit mauris, in placerat dui neque a neque. Curabitur ultricies tortor lorem, vitae congue enim sollicitudin eget. Donec iaculis dolor nec felis iaculis, sit amet consequat massa hendrerit. Curabitur pulvinar arcu est, et aliquet nisi ullamcorper in. Fusce imperdiet semper est vitae hendrerit. Vestibulum mollis turpis vel magna bibendum cursus. Cras et posuere eros. Nunc vel augue mi.
+
+Aliquam erat volutpat. Aenean sed eleifend ipsum. Vivamus sit amet sapien ut justo porta tincidunt id vitae ante. Aliquam eu ipsum convallis, ultricies justo a, molestie sapien. Cras lobortis ligula eu leo rutrum, id scelerisque nulla placerat. Cras urna enim, suscipit in justo a, vehicula egestas enim. Aliquam consectetur leo sed libero ultricies condimentum. Suspendisse tellus dolor, aliquam viverra volutpat nec, egestas non erat. Sed eget est quis enim lacinia finibus. Praesent eget ligula tristique, vestibulum lorem ac, pretium tortor. Cras tempus sollicitudin risus, feugiat vehicula sapien tempus sit amet. Morbi vulputate ipsum at felis scelerisque convallis. Etiam sed tortor lacinia, tincidunt neque eget, pulvinar tortor. Nam euismod orci ac justo mattis, ut ultrices lectus pulvinar."
+            android:textSize="16sp"
+            android:padding="16dp" />
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890199845706",
+    "project_id": "loginsystem-3acdd",
+    "storage_bucket": "loginsystem-3acdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890199845706:android:731c746b8ed7579e33afb3",
+        "android_client_info": {
+          "package_name": "com.example.components"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56BQW551wvvav-AzmJiCYRODJjarsRWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
